@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gabriel da Costa
+- 👀 I’m interested in web developing and tecnology
+- 🌱 I’m currently learning about PWA and  React 
+- 📫 How to reach me on my email: gabmertins@gmail.com
